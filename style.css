@@ -305,7 +305,7 @@ button {
     text-decoration: none;
    }
 
-   p{
+   .p{
     color: #fff;
     opacity: 8%;
     display: flex;
@@ -313,4 +313,10 @@ button {
     align-items: center;
     flex-direction: column;
     margin-top: 170px;
+   }
+
+   .copy{
+    color: #fff;
+    opacity: 100%;
+    text-decoration: none;
    }
